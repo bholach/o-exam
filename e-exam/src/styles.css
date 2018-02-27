@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+body::-webkit-scrollbar {
+    width: .4em;
+}
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(2, 248, 215);
+  outline: 1px solid #222;
+}
+.view2{
+    background: url("./assets/images/image11.jpeg") no-repeat;
+   }
+ .center{
+     text-align: center;
+ }  
